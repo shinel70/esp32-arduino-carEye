@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": false,
+    "idf.espIdfPathWin": "C:\\Users\\Ali\\esp-idf"
+}
